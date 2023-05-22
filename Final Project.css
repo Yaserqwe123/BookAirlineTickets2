@@ -1,0 +1,12 @@
+#q1{color: red;}
+#q2{width: 200px; height: 150px;  border: 2px solid blue; padding: 40px; margin: 20px; overflow: auto;}
+#q3{color: red;}
+img{float: right;}
+#q4{width: 30%; margin-right: 4%; float: left; background: yellow;}
+#q5{width: 30%; margin-right: 4%; float: left; background: red;}
+#q6{width: 28%; margin-right: 4%; float: left; background: orange;}
+.q7{margin-right: 5%;  float: right;}
+#q8{color: blue;}
+#e12{border: 3px solid brown; padding: 20px; width: 400px; height: 150px; overflow: auto;}
+.special{color: brown;}
+.footer{background-color: black; text-align: center; padding: 5px; color: white;}
